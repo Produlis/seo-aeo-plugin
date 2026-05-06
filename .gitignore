@@ -1,0 +1,19 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/*
+!.vscode/settings.json
+!.vscode/extensions.json
+.idea/
+*.swp
+
+# Node
+node_modules/
+
+# Google Indexing API service account key — never commit
+.google-indexing-key.json
+
+# Claude Code local overrides
+.claude/settings.local.json

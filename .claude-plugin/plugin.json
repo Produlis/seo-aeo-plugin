@@ -1,0 +1,22 @@
+{
+  "name": "seo-aeo",
+  "version": "1.0.0",
+  "description": "Rank higher in Google. Get cited in ChatGPT, Perplexity, and AI Overviews. A complete SEO and AEO toolkit for Claude Code — phased process, audits, content, schema, link building, and Google Indexing API submission.",
+  "author": {
+    "name": "Produlis",
+    "url": "https://produlis.com"
+  },
+  "homepage": "https://github.com/Produlis/seo-aeo-plugin",
+  "repository": "https://github.com/Produlis/seo-aeo-plugin",
+  "license": "MIT",
+  "keywords": [
+    "seo",
+    "aeo",
+    "answer-engine-optimization",
+    "search-engine-optimization",
+    "google-indexing",
+    "schema-markup",
+    "content-strategy",
+    "ai-visibility"
+  ]
+}
