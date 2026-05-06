@@ -7,7 +7,7 @@
   "plugins": [
     {
       "name": "seo-aeo",
-      "source": ".",
+      "source": "./",
       "description": "Rank higher in Google. Get cited in ChatGPT, Perplexity, and AI Overviews. Complete SEO and AEO toolkit for Claude Code.",
       "category": "seo",
       "tags": ["seo", "aeo", "content", "schema", "indexing"]
